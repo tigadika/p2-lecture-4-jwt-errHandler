@@ -1,0 +1,62 @@
+[
+  {
+    "title": "The Social Network",
+    "releaseYear": 2010,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/8/8c/The_Social_Network_film_poster.png",
+    "genreId": 1
+  },
+  {
+    "title": "Finding Nemo",
+    "releaseYear": 2003,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Finding_Nemo.jpg/220px-Finding_Nemo.jpg",
+    "genreId": 3
+  },
+  {
+    "title": "The Avengers",
+    "releaseYear": 2012,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/8/8a/The_Avengers_%282012_film%29_poster.jpg",
+    "genreId": 2
+  },
+  {
+    "title": "Pulp Fiction",
+    "releaseYear": 1994,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/3/3b/Pulp_Fiction_%281994%29_poster.jpg",
+    "genreId": 4
+  },
+  {
+    "title": "Jaws",
+    "releaseYear": 1975,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/JAWS_Movie_poster.jpg/220px-JAWS_Movie_poster.jpg",
+    "genreId": 1
+  },
+  {
+    "title": "The Godfather",
+    "releaseYear": 1972,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/1/1c/Godfather_ver1.jpg",
+    "genreId": 4
+  },
+  {
+    "title": "Forrest Gump",
+    "releaseYear": 1994,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Forrest_Gump_poster.jpg/220px-Forrest_Gump_poster.jpg",
+    "genreId": 1
+  },
+  {
+    "title": "The Dark Knight",
+    "releaseYear": 2008,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/1/1c/The_Dark_Knight_%282008_film%29.jpg",
+    "genreId": 2
+  },
+  {
+    "title": "The Shawshank Redemption",
+    "releaseYear": 1994,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/8/81/ShawshankRedemptionMoviePoster.jpg",
+    "genreId": 1
+  },
+  {
+    "title": "Inception",
+    "releaseYear": 2010,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/2/2e/Inception_%282010%29_theatrical_poster.jpg",
+    "genreId": 1
+  }
+]
